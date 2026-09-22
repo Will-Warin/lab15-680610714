@@ -1,4 +1,4 @@
-import { BookOpen, Calendar, Home, Settings } from "lucide-react";
+import { BookOpen,  Home } from "lucide-react"; //Calendar,, Settings //เอา2ตัวนี้ออก
 import { Link, useLocation } from "react-router";
 
 import {
